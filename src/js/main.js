@@ -222,9 +222,9 @@
   }
 
   var BADGE_NAMES = {
-    premium: "Premium", staff: "Staff Member", bug: "Bug Hunter", legend: "Legend",
-    shield: "Shield", star: "Image Host", heart: "Heart", crown: "Crown",
-    verified: "Verified", gift: "Gift", trophy: "Trophy", booster: "Booster",
+    premium: "Premium Member", staff: "Staff", bug: "Bug Hunter", legend: "Riley",
+    shield: "Moderator", star: "VIP", heart: "Random Badge", crown: "Owner",
+    verified: "Verified", gift: "Gifter", trophy: "Event Winner", booster: "Server Booster",
   };
 
   function renderBadges() {
