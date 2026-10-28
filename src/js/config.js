@@ -6,7 +6,7 @@ const CONFIG = {
     fontSize: "34px",
     fontFamily: "",
     fontWeight: "500",
-    color: "#d4a5a8",
+    color: "#FFFFFF",
   },
   avatar: { type: "icon" },
   bio: {
@@ -53,7 +53,7 @@ const CONFIG = {
   },
   theme: {
     preset: "",
-    textColor: "#d4a5a8",
+    textColor: "#FFFFFF",
     backgroundColor: "#f3d1d7",
     glowColor: "#ffffff",
     usernameEffects: "url('src/assets/background/sparkle_white.gif')",
