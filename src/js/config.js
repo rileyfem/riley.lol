@@ -18,14 +18,14 @@ const CONFIG = {
     pauseDuration: 2000,
   },
   joinedDate: "Joined over 69 years ago",
-  badges: ["premium", "staff", "bug", "legend", "shield", "star", "heart", "crown", "verified", "gift", "trophy", "booster"],
+  badges: ["premium", "staff", "bug", "legend", "crown", "verified", "gift"],
   links: [
-    { url: "https://sexcaller.lol",   icon: "src/assets/icons/a6816e4c-052e-4f28-92f3-66396b2ca4f8.gif", color: "#ffffff" },
+    { url: "https://discord.com/users/1191045972298580069", icon: "src/assets/icons/a6816e4c-052e-4f28-92f3-66396b2ca4f8.gif", color: "#ffffff" },
     { url: "https://github.com/chaoschicken6-dot", icon: "src/assets/icons/2db87780-3939-4c4c-a86f-86b069e69e18.webp", color: "#ffffff" },
-    { url: "https://instagram.com/izayvss", icon: "src/assets/icons/9d2293f2-2100-4a61-a2e6-dadfccac84f3.webp", color: "#ffffff" },
-    { url: "https://guns.lol/sexfriend", icon: "src/assets/icons/6ee3bfba-f672-41d5-9cb6-4c4b2fecc489.webp", color: "#dddddd" },
+    { url: "https://www.tiktok.com/@rileyogfn", icon: "src/assets/icons/9d2293f2-2100-4a61-a2e6-dadfccac84f3.webp", color: "#ffffff" },
+    { url: "https://www.youtube.com/@PrinceRileyPlayz", icon: "src/assets/icons/6ee3bfba-f672-41d5-9cb6-4c4b2fecc489.webp", color: "#dddddd" },
   ],
-  views: 644,
+  views: 69420,
   audio: {
     src: "https://r2.guns.lol/11e33dd1-e47b-4d6f-973c-54a55338f6ab.mp3",
     title: "Another One",
@@ -33,7 +33,7 @@ const CONFIG = {
     autoplay: true,
     loop: true,
     volume: 0.3,
-    showControls: false,
+    showControls: true,
     playlist: [],
   },
   volumeControl: { enabled: false, position: "top-left" },
@@ -73,7 +73,7 @@ const CONFIG = {
   equalizer: { enabled: false, bars: 32, color: "#ffffff", glowColor: "rgba(255,255,255,0.3)", height: 80, position: "bottom" },
   avatarWave: { enabled: false, color: "#ffffff", lines: 3, amplitude: 10, speed: 0.02 },
   progressBar: { height: 3, radius: 15, color: "#ffffff", bgColor: "rgba(255,255,255,0.3)", thumbSize: 10, gradient: [] },
-  background: { src: "", color: "#000000", effects: { aurora: true, dither: false, plasma: false, snow: false, rain: false, stars: true, fireflies: false } },
+  background: { src: "", color: "#f3d1d7", effects: { aurora: true, dither: false, plasma: false, snow: true, rain: false, stars: true, fireflies: false } },
 };
 
 const BADGE_SVGS = {
